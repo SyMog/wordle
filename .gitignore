@@ -1,0 +1,23 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+.vscode/
+
+# Ignore Gradle build output directory
+build
+
+# Compiled class files
+*.class
+
+# Build directories
+target/
+build/
+dist/
+
+# Package files
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
