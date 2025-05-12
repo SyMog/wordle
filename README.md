@@ -10,6 +10,7 @@ answer.
 
 
 ## How to run 
+If you're using windows, use gradlew.bat !
  
 You can generate the jar from sources with at the root: 
 ```
