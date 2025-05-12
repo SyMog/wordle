@@ -12,12 +12,3 @@ build
 target/
 build/
 dist/
-
-# Package files
-*.jar
-*.war
-*.ear
-*.nar
-*.zip
-*.tar.gz
-*.rar
